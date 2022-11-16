@@ -1,3 +1,1 @@
-# alx-low_level_programming
-Getting started with C Programming
-I am making progress in my learning
+This is the part where I write about C - argc and argv
